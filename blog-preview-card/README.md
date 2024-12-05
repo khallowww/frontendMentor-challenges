@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-Check live here: [Live](https://frontend-mentor-challenges-01.vercel.app/)
+Check the challenge live here: [Live](https://frontend-mentor-challenges-01.vercel.app/)
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
 
