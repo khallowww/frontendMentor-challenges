@@ -7,3 +7,4 @@ The project was built while solving out the challenges from [Frontend Mentor](ht
 Challenges                    | Tech/Approaches          | Repo | Demo
 :---                          |      :---:      | :---:  | :---:
 | 1. Blog Preview Card |  Html, Css, Css Flexbox | [Repo](https://github.com/khallowww/frontendMentor-challenges/tree/main/blog-preview-card) |[Live](https://frontend-mentor-challenges-01.vercel.app/)
+| 2. Social Profile Links |  Html, Css, Css Flexbox | [Repo](https://github.com/khallowww/frontendMentor-challenges/blob/main/social-links-profile) |[Live](https://frontend-mentor-challenges-02.vercel.app/)
